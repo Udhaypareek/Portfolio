@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #FDF6F0;
+}
+
+section {
+    margin: 2vw;
+}
+
+h1,
+h2 {
+    color: #753422;
+    margin: 10px;
+}
+
+header {
+    display: flex;
+}
+
+#profile img {
+    width: 100px;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+#profileinfo {
+    margin: 20px;
+}
+
+table {
+    width: auto;
+}
+
+td,
+th {
+    padding: 10px;
+}
